@@ -1,6 +1,6 @@
 ### Hello I'm Michalis and this is my profile!!  👋
 - 🌱 I’m currently learning Data Analysis
-- 🤔 I’m looking for help with Text Similarity
+- 🤔 I’m looking for help with Text Similarity with Siamese Neural Network
 - 📫 How to reach me: 
      <br>1)Insta: @michas_papa 
      <br>2)<a href="https://www.linkedin.com/in/michail-papargyriou-3097aa142/">LinkedIn: Michail Papargyriou</a>
