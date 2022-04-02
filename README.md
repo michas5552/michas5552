@@ -1,5 +1,4 @@
-### Hi there 👋
-### Hi there 👋
+### Hello I'm Michalis and this is my profile!!  👋
 - 🌱 I’m currently learning Data Analysis
 - 🤔 I’m looking for help with Text Similarity
 - 📫 How to reach me: 
