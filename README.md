@@ -1,4 +1,4 @@
-### Hello I'm Michalis and this is my profile!!  👋
+### Hello, My name is Michalis and this is my profile!!  👋
 - 🌱 I’m currently learning Data Analysis
 - 🤔 I’m looking for help with Text Similarity with Siamese Neural Network
 - 📫 How to reach me: 
