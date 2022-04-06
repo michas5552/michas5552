@@ -6,12 +6,6 @@
      2)LinkedIn: <a href="https://www.linkedin.com/in/michail-papargyriou-3097aa142/">Michail Papargyriou</a>
 
 <!--### Hi there 👋
-
-- 🤔 I’m looking for help with Text Similarity
-- 📫 How to reach me: 
-     <br>1)Insta: @michas_papa 
-     <br>2)<a href="https://www.linkedin.com/in/michail-papargyriou-3097aa142/">LinkedIn: Michail Papargyriou</a>
-
 **michas5552/michas5552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
