@@ -1,5 +1,5 @@
 ### Hello, My name is Michalis and this is my profile!!  👋
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis, Data Engineer and Machine Learning 
 - 📫 How to reach me: 
      <br>1)Insta: <a href="https://www.instagram.com/michas_papa/?hl=el">@michas_papa</a>  
      2)LinkedIn: <a href="https://www.linkedin.com/in/michail-papargyriou-3097aa142/">Michail Papargyriou</a>
