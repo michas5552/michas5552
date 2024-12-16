@@ -1,10 +1,10 @@
 ### Hello, My name is Michalis and this is my profile!!  👋
-- 🌱 I’m currently learning Data Analysis, Data Engineer and Machine Learning 
+<!---### 🌱 I’m currently learning Data Analysis, Data Engineer and Machine Learning 
 - 📫 How to reach me: 
      <br>1)Insta: <a href="https://www.instagram.com/michas_papa/?hl=el">@michas_papa</a>  
      2)LinkedIn: <a href="https://www.linkedin.com/in/michail-papargyriou-3097aa142/">Michail Papargyriou</a>
 
-<!--### Hi there 👋
+ Hi there 👋
 **michas5552/michas5552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
